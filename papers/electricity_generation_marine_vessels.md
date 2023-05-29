@@ -1,3 +1,7 @@
+### Prompt Chat-GPT4
+
+``` Design a boat that generates electricity through using thermoelectric plate arrays and sits in a sunny area. It should generate the largest amount of wattage per hour as possible given the technology.  Posit on the electrical efficiency of the system, give figures on output.  Write a full scientific paper about it.  Highlight how it can be applied to sustainable energy. Call for papers.```
+
 # Thermoelectric Plate Array-Driven Electricity Generation on Marine Vessels: An Innovative Pathway to Sustainable Energy
 
 ## Abstract
