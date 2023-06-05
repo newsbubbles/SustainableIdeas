@@ -11,7 +11,7 @@ Feel free to contribute.  I will start a Discord server if this idea generates e
 
 *Include your propmts*, for example
 
-### Prompt to Chat-GPT4
+### Prompt to GPT-4
 ```write a short introduction for a github repository that features papers just like the one you wrote called SustainableIdeas```
 
 ### Output
